@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/CmkJVfK/6192313.jpg",
+      "title": "The Great Adventure",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/HTTHKz2/portrait-young-man-while-studying-books.jpg",
+      "posted_date": "2023-06-01",
+      "reading_time": "14:00",
+      "hashtags": ["#adventure", "#fantasy", "#novel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/DCsGjrw/157.jpg",
+      "title": "Mystery of the Lost City",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/9NcSrzb/happy-business-man-shirt-with-crossed-arms-looking-away.jpg",
+      "posted_date": "2023-07-15",
+      "reading_time": "16:30",
+      "hashtags": ["#mystery", "#thriller", "#city"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/dghWJtC/252-Fashion-sale-facebook-cover-page-template.jpg",
+      "title": "Tech Innovations",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/TkMSsd6/handsome-young-businessman-working-office.jpg",
+      "posted_date": "2023-08-20",
+      "reading_time": "10:00",
+      "hashtags": ["#technology", "#innovation", "#future"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Sd2Dbqh/5362840.jpg",
+      "title": "Cooking Secrets",
+      "author": "Chef Gordon",
+      "author_img": "https://i.ibb.co/yfxNYVr/portrait-mature-smiling-authoress-sitting-desk.jpg",
+      "posted_date": "2023-09-05",
+      "reading_time": "12:45",
+      "hashtags": ["#cooking", "#recipes", "#food"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/MVzwGqc/caucasian-man-studying-literature-by-candle-flame-generated-by-ai.jpg",
+      "title": "Exploring the Universe",
+      "author": "Dr. Neil Tyson",
+      "author_img": "https://i.ibb.co/t213JZr/young-woman-writing-her-journal.jpg",
+      "posted_date": "2023-10-10",
+      "reading_time": "18:00",
+      "hashtags": ["#space", "#astronomy", "#universe"]
+    }
+  ]
+  
